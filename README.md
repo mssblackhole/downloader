@@ -77,8 +77,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [mhrv-rs-windows-amd64](https://github.com/mssblackhole/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+1 - [GooseRelayVPN-client-v1.6.0-windows-amd64](https://github.com/mssblackhole/downloader/tree/main/downloads/GooseRelayVPN-client-v1.6.0-windows-amd64)
+2 - [mhrv-rs-windows-amd64](https://github.com/mssblackhole/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
